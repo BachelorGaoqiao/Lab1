@@ -3,6 +3,7 @@ import java.util.ArrayList;
  * Created by gaoqiao on 2016/9/18.
  */
  //how hard the lab is!
+ //pen pineapple apple pen
 public class BracketReducer {
     public BracketReducer(String expression) throws ExpressionCompileException {
         this.expression = expression;
