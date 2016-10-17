@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 /**
- * Created by zxx_1 on 2016/9/18.
+ * Created by gaoqiao on 2016/9/18.
  */
+ //how hard the lab is!
 public class BracketReducer {
     public BracketReducer(String expression) throws ExpressionCompileException {
         this.expression = expression;

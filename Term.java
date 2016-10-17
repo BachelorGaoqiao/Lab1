@@ -1,5 +1,5 @@
 /**
- * Created by zxx_1 on 2016/9/18.
+ * Created by gaoqiao on 2016/9/18.
  */
 public class Term {                                 // 不包含括号的联乘式
     public String content;

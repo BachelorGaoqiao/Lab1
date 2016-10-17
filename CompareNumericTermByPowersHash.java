@@ -1,7 +1,7 @@
 import java.util.Comparator;
 
 /**
- * Created by zxx_1 on 2016/9/19.
+ * Created by gaoqiao on 2016/9/19.
  */
 public class CompareNumericTermByPowersHash implements Comparator {
     @Override

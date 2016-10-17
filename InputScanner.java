@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by zxx_1 on 2016/9/18.
+ * Created by gaoqiao on 2016/9/18.
  */
 public class InputScanner {
     InputScanner() {
