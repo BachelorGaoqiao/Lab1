@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArrayList;//B2
 /**
  * Created by gaoqiao on 2016/9/18.
  */

@@ -1,4 +1,4 @@
-import java.util.Comparator;
+import java.util.Comparator;//B2
 
 /**
  * Created by gaoqiao on 2016/9/19.
