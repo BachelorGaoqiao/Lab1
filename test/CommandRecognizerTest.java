@@ -9,7 +9,7 @@ import java.util.Collection;
 import static org.junit.Assert.*;
 
 /**
- * Created by zxx_1 on 2016/9/18.
+ * Created by zxx_1 18.
  */
 @RunWith(Parameterized.class)
 public class CommandRecognizerTest {
