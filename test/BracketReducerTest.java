@@ -3,7 +3,7 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 /**
- * Created by zxx_1 on 2016/9/19.
+ * Created by 1 on 2016/9/19.
  */
 public class BracketReducerTest {
 
