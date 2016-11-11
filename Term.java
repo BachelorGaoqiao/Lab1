@@ -13,3 +13,5 @@ public class Term {                                 // 不包含括号的联乘式
         this.sign = '\0';
     }
 }
+
+//aaaaaaaaaaaaaaaaaaaaaaaaaaa
