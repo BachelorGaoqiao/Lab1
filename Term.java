@@ -14,4 +14,4 @@ public class Term {                                 // 不包含括号的联乘式
     }
 }
 
-//aaaaaaaaaaaaaaaaaaaaaaaaaaa
+//Lab5b
